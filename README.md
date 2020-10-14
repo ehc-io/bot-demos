@@ -1,6 +1,6 @@
 **BOT-DEMO**
 
-This is the source code for a container image with Ubuntu 20.04 install and  Xfce4, inlcuding several libraries commonly used for webscraping:
+This is the source code for a container image with Ubuntu 20.04 install and  Xfce4, including several libraries commonly used for webscraping:
 
 - Selenium  
 - bs4  
