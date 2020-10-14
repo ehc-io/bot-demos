@@ -1,0 +1,1 @@
+docker build -t gelad0/xbot-headless:$1 -f ./Dockerfile .
